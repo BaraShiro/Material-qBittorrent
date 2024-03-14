@@ -1,0 +1,16 @@
+{
+  "colors": {
+	"TransferList.Downloading": "#2da44e",
+	"TransferList.Uploading": "#0969da",
+	"TransferList.StalledDownloading": "#802da44e",
+	"TransferList.StalledUploading": "#800969da",
+	"TransferList.PausedDownloading": "#bf8700",
+    "TransferList.PausedUploading": "#8250df",
+	"TransferList.CheckingDownloading": "#267f99",
+	"TransferList.CheckingUploading": "#267f99",
+	"TransferList.CheckingResumeData": "#267f99",
+	"TransferList.Moving": "#267f99",
+	"TransferList.MissingFiles": "#cf222e",
+	"TransferList.Error": "#cf222e"
+  }
+}
