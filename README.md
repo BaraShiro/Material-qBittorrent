@@ -11,3 +11,6 @@ A theme for qBittorent that uses Material Design Symbols.
 To build the theme, clone this repository and run `compile-light-color-coded-black.bat`. Alternatively run `make-resource.py` and supply the paths to the resources manually.
 
 `make-resource.py` courtesy of [jagannatharjun](https://github.com/jagannatharjun/qbt-theme).
+
+## Example
+![Screenshot 2024-03-14 035959-1](https://github.com/BaraShiro/Material-qBittorrent/assets/17293533/d8a38062-175f-461a-90f8-d68d63dbfe5c)
